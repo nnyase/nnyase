@@ -12,8 +12,7 @@
 I am a junior data scientist/ Machine Learning Engineer.
 
 - 🔭 A junior artificial intelligence engineer/data scientist who takes pride in extracting data and using that to build statistical and predictive models that translate data points to derive insight and solve problems.
-- 🌱 BSc in Cognitive Science and Artificial Intelligence at Tilburg University with a minor/specialisation in Data Science at Eindhoven University of Technology.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🌱 BSc in Cognitive Science and Artificial Intelligence at Tilburg University with a minor in Data Science at Eindhoven University of Technology.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nnyase-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nnyase)
 
 ---
