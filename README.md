@@ -3,6 +3,7 @@
 </div>
 
 ### Hi there, I am Ndivhuwo Nyase 👋
+- 🎯 Portfolio website: [Portfolio](https://nnyase.github.io/)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nnyase&style=flat-square&color=blue" alt=""></p>
 
@@ -11,6 +12,7 @@
 
 I am a junior data scientist/ Machine Learning Engineer.
 
+- 🎯 Portfolio website: [Portfolio](https://nnyase.github.io/)
 - 🔭 A junior artificial intelligence engineer/data scientist who takes pride in extracting data and using that to build statistical and predictive models that translate data points to derive insight and solve problems.
 - 🌱 BSc in Cognitive Science and Artificial Intelligence at Tilburg University with a minor in Data Science at Eindhoven University of Technology.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nnyase-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nnyase)
