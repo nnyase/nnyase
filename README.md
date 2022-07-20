@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -9,7 +9,7 @@
   </div>
 
 
-<div id ="badges" align="center"
+<div id ="badges1" align="center"
      <img src="https://komarev.com/ghpvc/?username=nnyase&style=flat-square&color=blue" alt=""/>
      </div>
 
