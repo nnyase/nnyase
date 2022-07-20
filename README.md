@@ -4,20 +4,17 @@
 
 ### Hi there, I am Ndivhuwo Nyase 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-NdivhuwoNyase-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ndivhuwo-nyase/)](https://www.linkedin.com/in/ndivhuwo-nyase/)
-
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nnyase&style=flat-square&color=blue" alt=""></p>
 
 
-### :woman_technologist: &nbsp;About Me :
+### &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a junior data scientist/ Machine Learning Engineer.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🔭 A junior artificial intelligence engineer/data scientist who takes pride in extracting data and using that to build statistical and predictive models that translate data points to derive insight and solve problems.
+- 🌱 BSc in Cognitive Science and Artificial Intelligence at Tilburg University with a minor/specialisation in Data Science at Eindhoven University of Technology.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nnyase-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nnyase)
 
 ---
 
