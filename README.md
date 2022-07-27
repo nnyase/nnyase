@@ -20,7 +20,7 @@ I am a junior data scientist/ Machine Learning Engineer.
 
 ### 🛠 &nbsp;Languages and Tools :
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
